@@ -1,1 +1,1 @@
-# CodSoft_Intership_Task
+# CodSoft_Internship_Task
