@@ -1,0 +1,9 @@
+nltk
+mediapipe
+facenet-pytorch
+opencv-python
+pandas
+numpy
+torch
+torchvision
+Pillow

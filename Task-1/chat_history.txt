@@ -1,0 +1,18 @@
+User: hi
+Bot: Hello!
+
+User: whats going on
+Bot: Tell me more.
+
+User: i am woory about you
+Bot: That's interesting!
+
+User: agar
+Bot: I see.
+
+User: lo
+Bot: I see.
+
+User: ok now
+Bot: That's interesting!
+
